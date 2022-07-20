@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @averybos
-- 👀 I’m interested in ... data science, cryptocurrency and blockchain, exercising, reading, watching youtube
+- 👀 I’m interested in ... data and analytics, exercising, reading, watching youtube
 - 🌱 I’m currently learning ... python, javascript, golang, etc etc
 - 💞️ I’m looking to collaborate on ... something that interests me! ;)
 - 📫 How to reach me ... avery@bouki.com
