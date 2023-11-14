@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @averybos
-- 👀 I’m interested in ... computer stuff, exercising, reading, watching youtube
-- 💞️ I’m looking to collaborate on ... something that interests me! ;)
 - 📫 How to reach me ... avery@bouki.com
 
 <!---
